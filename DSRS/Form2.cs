@@ -16,6 +16,7 @@ namespace DSRS
         public Form2()
         {
             InitializeComponent();
+        
         }
 
         public Form2(int userType) : this()
@@ -37,6 +38,7 @@ namespace DSRS
         private void Form2_Load(object sender, EventArgs e)
         {
 
+            this.ActiveControl = button1;
         }
 
         private void login_btn_Click(object sender, EventArgs e)
@@ -151,6 +153,11 @@ namespace DSRS
             this.Hide();
             CustomerForgotPassword customerForgotPassword = new CustomerForgotPassword();
             customerForgotPassword.Show();
+        }
+
+        private void password_txt_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
