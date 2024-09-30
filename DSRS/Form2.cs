@@ -64,9 +64,12 @@ namespace DSRS
 
         }
 
+        
 
         private void AdminLogin()
         {
+            //MessageBox.Show($"{userid_txt.Text}\n{password_txt.Text}");
+
             if (userid_txt.Text == "admin" && password_txt.Text == "admin")
             {
                 this.Hide();
@@ -76,7 +79,7 @@ namespace DSRS
             }
 
             string error;
-            string query = $"SELECT * From [Admin Information] WHERE Email = '{userid_txt.Text}' AND PASSWORD = '{password_txt.Text}'";
+            string query = $"SELECT * From [Admin Information] WHERE Email = '{userid_txt.Text}' AND Password = '{password_txt.Text}'";
 
             DataSet dataSet = DataBase.DataAccess(query, out error);
 
@@ -86,13 +89,14 @@ namespace DSRS
                 return;
             }
 
-
-            if (dataSet.Tables[0].Rows.Count <= 0)
+            //MessageBox.Show(dataSet.Tables.Count.ToString() + "\n" + dataSet.Tables[0].Rows.Count);
+            if (dataSet.Tables[0].Rows.Count == 0)
             {
                 MessageBox.Show("Invalid email or password");
                 return;
 
             }
+
 
 
             this.Hide();
@@ -104,7 +108,7 @@ namespace DSRS
         private void CustomerLogin()
         {
             string error;
-            string query = $"SELECT * From [User Information] WHERE Email = '{userid_txt.Text}' AND PASSWORD = '{password_txt.Text}'";
+            string query = $"SELECT * From [User Information] WHERE Email = '{userid_txt.Text}' AND Password = '{password_txt.Text}'";
 
             DataSet dataSet = DataBase.DataAccess(query, out error);
 

@@ -3,11 +3,27 @@
   "WorkspaceRootPath": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|e:\\education\\summer 23-24\\dsrs\\dsrs 1\\dsrs\\dsrs\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\dsrs\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\dsrs\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\dsrs\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\dsrs\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|e:\\education\\summer 23-24\\dsrs\\dsrs 1\\dsrs\\dsrs\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\dsrs\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -26,10 +42,6 @@
       "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\customerforgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\dsrs\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\dsrs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -44,18 +56,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\dsrs\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\dsrs\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\dsrs\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\dsrs\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\dsrs\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -118,12 +118,11 @@
               "ViewState": "AgIAAF8AAAAAAAAAAAAiwGkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T16:30:38.43Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "Form5.cs [Design]",
               "DocumentMoniker": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form5.cs",
               "RelativeDocumentMoniker": "DSRS\\Form5.cs",
@@ -131,49 +130,11 @@
               "RelativeToolTip": "DSRS\\Form5.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T17:14:48.416Z",
-              "IsPinned": true,
-              "EditorCaption": " [Design]"
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Form9.cs [Design]",
-              "DocumentMoniker": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form9.cs",
-              "RelativeDocumentMoniker": "DSRS\\Form9.cs",
-              "ToolTip": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form9.cs [Design]",
-              "RelativeToolTip": "DSRS\\Form9.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T07:39:14.058Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Form3.cs [Design]",
-              "DocumentMoniker": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form3.cs",
-              "RelativeDocumentMoniker": "DSRS\\Form3.cs",
-              "ToolTip": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form3.cs [Design]",
-              "RelativeToolTip": "DSRS\\Form3.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T11:20:14.376Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form2.cs",
-              "RelativeDocumentMoniker": "DSRS\\Form2.cs",
-              "ToolTip": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form2.cs",
-              "RelativeToolTip": "DSRS\\Form2.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAADwv3AAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T11:51:24.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "DataBaseConnection.cs",
               "DocumentMoniker": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\DataBaseConnection.cs",
               "RelativeDocumentMoniker": "DSRS\\DataBaseConnection.cs",
@@ -181,95 +142,33 @@
               "RelativeToolTip": "DSRS\\DataBaseConnection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAADZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T05:45:38.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CustomerForgotPassword.cs [Design]",
-              "DocumentMoniker": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\CustomerForgotPassword.cs",
-              "RelativeDocumentMoniker": "DSRS\\CustomerForgotPassword.cs",
-              "ToolTip": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\CustomerForgotPassword.cs [Design]",
-              "RelativeToolTip": "DSRS\\CustomerForgotPassword.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T04:04:37.427Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-09-28T05:45:38.521Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CustomerForgotPassword.cs",
-              "DocumentMoniker": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\CustomerForgotPassword.cs",
-              "RelativeDocumentMoniker": "DSRS\\CustomerForgotPassword.cs",
-              "ToolTip": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\CustomerForgotPassword.cs",
-              "RelativeToolTip": "DSRS\\CustomerForgotPassword.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T04:07:59.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "e52ujzy2..sql",
-              "DocumentMoniker": "C:\\Users\\USER\\AppData\\Local\\Temp\\e52ujzy2..sql",
-              "ToolTip": "C:\\Users\\USER\\AppData\\Local\\Temp\\e52ujzy2..sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-09-30T04:10:26.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form2.cs",
-              "RelativeDocumentMoniker": "DSRS\\Form2.cs",
-              "ToolTip": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form2.cs [Design]",
-              "RelativeToolTip": "DSRS\\Form2.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T11:07:16.966Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Form3.cs",
-              "DocumentMoniker": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form3.cs",
-              "RelativeDocumentMoniker": "DSRS\\Form3.cs",
-              "ToolTip": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form3.cs",
-              "RelativeToolTip": "DSRS\\Form3.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAqwCIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T11:30:27.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Form8.cs [Design]",
               "DocumentMoniker": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form8.cs",
               "RelativeDocumentMoniker": "DSRS\\Form8.cs",
               "ToolTip": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form8.cs [Design]",
               "RelativeToolTip": "DSRS\\Form8.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T07:26:12.044Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-09-27T07:26:12.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form1.cs",
-              "RelativeDocumentMoniker": "DSRS\\Form1.cs",
-              "ToolTip": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form1.cs [Design]",
-              "RelativeToolTip": "DSRS\\Form1.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form4.cs",
+              "RelativeDocumentMoniker": "DSRS\\Form4.cs",
+              "ToolTip": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form4.cs [Design]",
+              "RelativeToolTip": "DSRS\\Form4.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T11:07:20.154Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-09-26T11:36:45.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "Form7.cs [Design]",
               "DocumentMoniker": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form7.cs",
               "RelativeDocumentMoniker": "DSRS\\Form7.cs",
@@ -281,15 +180,103 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Form4.cs [Design]",
-              "DocumentMoniker": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form4.cs",
-              "RelativeDocumentMoniker": "DSRS\\Form4.cs",
-              "ToolTip": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form4.cs [Design]",
-              "RelativeToolTip": "DSRS\\Form4.cs [Design]",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form2.cs",
+              "RelativeDocumentMoniker": "DSRS\\Form2.cs",
+              "ToolTip": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form2.cs",
+              "RelativeToolTip": "DSRS\\Form2.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAADwv3AAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T11:36:45.486Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-09-26T11:51:24.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form3.cs",
+              "RelativeDocumentMoniker": "DSRS\\Form3.cs",
+              "ToolTip": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form3.cs [Design]",
+              "RelativeToolTip": "DSRS\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:20:14.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form9.cs [Design]",
+              "DocumentMoniker": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form9.cs",
+              "RelativeDocumentMoniker": "DSRS\\Form9.cs",
+              "ToolTip": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form9.cs [Design]",
+              "RelativeToolTip": "DSRS\\Form9.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T07:39:14.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerForgotPassword.cs [Design]",
+              "DocumentMoniker": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\CustomerForgotPassword.cs",
+              "RelativeDocumentMoniker": "DSRS\\CustomerForgotPassword.cs",
+              "ToolTip": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\CustomerForgotPassword.cs [Design]",
+              "RelativeToolTip": "DSRS\\CustomerForgotPassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T04:04:37.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerForgotPassword.cs",
+              "DocumentMoniker": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\CustomerForgotPassword.cs",
+              "RelativeDocumentMoniker": "DSRS\\CustomerForgotPassword.cs",
+              "ToolTip": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\CustomerForgotPassword.cs",
+              "RelativeToolTip": "DSRS\\CustomerForgotPassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T04:07:59.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "e52ujzy2..sql",
+              "DocumentMoniker": "C:\\Users\\USER\\AppData\\Local\\Temp\\e52ujzy2..sql",
+              "ToolTip": "C:\\Users\\USER\\AppData\\Local\\Temp\\e52ujzy2..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-30T04:10:26.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form2.cs",
+              "RelativeDocumentMoniker": "DSRS\\Form2.cs",
+              "ToolTip": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form2.cs [Design]",
+              "RelativeToolTip": "DSRS\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:07:16.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form3.cs",
+              "RelativeDocumentMoniker": "DSRS\\Form3.cs",
+              "ToolTip": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form3.cs",
+              "RelativeToolTip": "DSRS\\Form3.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAqwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:30:27.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form1.cs",
+              "RelativeDocumentMoniker": "DSRS\\Form1.cs",
+              "ToolTip": "E:\\education\\Summer 23-24\\DSRS\\DSRS 1\\DSRS\\DSRS\\Form1.cs [Design]",
+              "RelativeToolTip": "DSRS\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:07:20.154Z"
             },
             {
               "$type": "Document",
@@ -301,8 +288,7 @@
               "RelativeToolTip": "DSRS\\Form9.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAiwDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T06:30:18.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T06:30:18.177Z"
             },
             {
               "$type": "Document",
@@ -314,8 +300,7 @@
               "RelativeToolTip": "DSRS\\Form5.cs",
               "ViewState": "AgIAALQAAAAAAAAAAAAAAAQBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T18:08:38.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T18:08:38.858Z"
             },
             {
               "$type": "Document",
@@ -327,8 +312,7 @@
               "RelativeToolTip": "DSRS\\Form5.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T04:16:36.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T04:16:36.712Z"
             },
             {
               "$type": "Document",
@@ -340,8 +324,7 @@
               "RelativeToolTip": "DSRS\\Form8.cs",
               "ViewState": "AgIAAOwAAAAAAAAAAAAQwPoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T09:19:36.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T09:19:36.83Z"
             },
             {
               "$type": "Document",
@@ -353,8 +336,7 @@
               "RelativeToolTip": "DSRS\\DataBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T13:52:38.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T13:52:38.168Z"
             },
             {
               "$type": "Document",
@@ -366,8 +348,7 @@
               "RelativeToolTip": "DSRS\\Form1.Designer.cs",
               "ViewState": "AgIAAGYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T02:56:10.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T02:56:10.356Z"
             },
             {
               "$type": "Document",
@@ -379,8 +360,7 @@
               "RelativeToolTip": "DSRS\\Form1.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T11:53:07.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T11:53:07.312Z"
             },
             {
               "$type": "Document",
@@ -392,8 +372,7 @@
               "RelativeToolTip": "DSRS\\Form7.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAlwCgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T11:10:52.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T11:10:52.193Z"
             },
             {
               "$type": "Document",
@@ -405,8 +384,7 @@
               "RelativeToolTip": "DSRS\\Utility.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T09:25:33.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T09:25:33.694Z"
             }
           ]
         }

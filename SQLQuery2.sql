@@ -1,0 +1,1 @@
+﻿SELECT * From [Admin Information] WHERE Email = 'hasanshakilr@gmail.com' AND Password = '123'
