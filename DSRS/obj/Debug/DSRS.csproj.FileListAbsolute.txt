@@ -1,0 +1,181 @@
+E:\education\DSRS\DSRS\DSRS\bin\Debug\DSRS.exe.config
+E:\education\DSRS\DSRS\DSRS\bin\Debug\DSRS.exe
+E:\education\DSRS\DSRS\DSRS\bin\Debug\DSRS.pdb
+E:\education\DSRS\DSRS\DSRS\obj\Debug\DSRS.csproj.AssemblyReference.cache
+E:\education\DSRS\DSRS\DSRS\obj\Debug\DSRS.Form1.resources
+E:\education\DSRS\DSRS\DSRS\obj\Debug\DSRS.Form2.resources
+E:\education\DSRS\DSRS\DSRS\obj\Debug\DSRS.Form3.resources
+E:\education\DSRS\DSRS\DSRS\obj\Debug\DSRS.Form4.resources
+E:\education\DSRS\DSRS\DSRS\obj\Debug\DSRS.Properties.Resources.resources
+E:\education\DSRS\DSRS\DSRS\obj\Debug\DSRS.csproj.GenerateResource.cache
+E:\education\DSRS\DSRS\DSRS\obj\Debug\DSRS.csproj.CoreCompileInputs.cache
+E:\education\DSRS\DSRS\DSRS\obj\Debug\DSRS.exe
+E:\education\DSRS\DSRS\DSRS\obj\Debug\DSRS.pdb
+E:\education\DSRS\DSRS\DSRS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\education\DSRS\DSRS\DSRS\bin\Debug\MySqlConnector.dll
+E:\education\DSRS\DSRS\DSRS\bin\Debug\System.Buffers.dll
+E:\education\DSRS\DSRS\DSRS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\education\DSRS\DSRS\DSRS\bin\Debug\System.Memory.dll
+E:\education\DSRS\DSRS\DSRS\bin\Debug\System.Numerics.Vectors.dll
+E:\education\DSRS\DSRS\DSRS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\education\DSRS\DSRS\DSRS\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\education\DSRS\DSRS\DSRS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\education\DSRS\DSRS\DSRS\bin\Debug\MySqlConnector.xml
+E:\education\DSRS\DSRS\DSRS\bin\Debug\System.Buffers.xml
+E:\education\DSRS\DSRS\DSRS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\education\DSRS\DSRS\DSRS\bin\Debug\System.Memory.xml
+E:\education\DSRS\DSRS\DSRS\bin\Debug\System.Numerics.Vectors.xml
+E:\education\DSRS\DSRS\DSRS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\education\DSRS\DSRS\DSRS\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\education\DSRS\DSRS\DSRS\obj\Debug\DSRS.Form5.resources
+E:\education\DSRS\DSRS\DSRS\obj\Debug\DSRS.csproj.Up2Date
+D:\University\Github\DSRS\DSRS\DSRS\bin\Debug\DSRS.exe.config
+D:\University\Github\DSRS\DSRS\DSRS\bin\Debug\DSRS.exe
+D:\University\Github\DSRS\DSRS\DSRS\bin\Debug\DSRS.pdb
+D:\University\Github\DSRS\DSRS\DSRS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\University\Github\DSRS\DSRS\DSRS\bin\Debug\MySqlConnector.dll
+D:\University\Github\DSRS\DSRS\DSRS\bin\Debug\System.Buffers.dll
+D:\University\Github\DSRS\DSRS\DSRS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\University\Github\DSRS\DSRS\DSRS\bin\Debug\System.Memory.dll
+D:\University\Github\DSRS\DSRS\DSRS\bin\Debug\System.Numerics.Vectors.dll
+D:\University\Github\DSRS\DSRS\DSRS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\University\Github\DSRS\DSRS\DSRS\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\University\Github\DSRS\DSRS\DSRS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\University\Github\DSRS\DSRS\DSRS\bin\Debug\MySqlConnector.xml
+D:\University\Github\DSRS\DSRS\DSRS\bin\Debug\System.Buffers.xml
+D:\University\Github\DSRS\DSRS\DSRS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\University\Github\DSRS\DSRS\DSRS\bin\Debug\System.Memory.xml
+D:\University\Github\DSRS\DSRS\DSRS\bin\Debug\System.Numerics.Vectors.xml
+D:\University\Github\DSRS\DSRS\DSRS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\University\Github\DSRS\DSRS\DSRS\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\University\Github\DSRS\DSRS\DSRS\obj\Debug\DSRS.csproj.AssemblyReference.cache
+D:\University\Github\DSRS\DSRS\DSRS\obj\Debug\DSRS.Form1.resources
+D:\University\Github\DSRS\DSRS\DSRS\obj\Debug\DSRS.Form2.resources
+D:\University\Github\DSRS\DSRS\DSRS\obj\Debug\DSRS.Form3.resources
+D:\University\Github\DSRS\DSRS\DSRS\obj\Debug\DSRS.Form4.resources
+D:\University\Github\DSRS\DSRS\DSRS\obj\Debug\DSRS.Form5.resources
+D:\University\Github\DSRS\DSRS\DSRS\obj\Debug\DSRS.Form7.resources
+D:\University\Github\DSRS\DSRS\DSRS\obj\Debug\DSRS.Form8.resources
+D:\University\Github\DSRS\DSRS\DSRS\obj\Debug\DSRS.Form9.resources
+D:\University\Github\DSRS\DSRS\DSRS\obj\Debug\DSRS.Properties.Resources.resources
+D:\University\Github\DSRS\DSRS\DSRS\obj\Debug\DSRS.csproj.GenerateResource.cache
+D:\University\Github\DSRS\DSRS\DSRS\obj\Debug\DSRS.csproj.CoreCompileInputs.cache
+D:\University\Github\DSRS\DSRS\DSRS\obj\Debug\DSRS.csproj.Up2Date
+D:\University\Github\DSRS\DSRS\DSRS\obj\Debug\DSRS.exe
+D:\University\Github\DSRS\DSRS\DSRS\obj\Debug\DSRS.pdb
+E:\education\Summer 23-24\DSRS\DSRS\bin\Debug\DSRS.exe.config
+E:\education\Summer 23-24\DSRS\DSRS\bin\Debug\DSRS.exe
+E:\education\Summer 23-24\DSRS\DSRS\bin\Debug\DSRS.pdb
+E:\education\Summer 23-24\DSRS\DSRS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\education\Summer 23-24\DSRS\DSRS\bin\Debug\MySqlConnector.dll
+E:\education\Summer 23-24\DSRS\DSRS\bin\Debug\System.Buffers.dll
+E:\education\Summer 23-24\DSRS\DSRS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\education\Summer 23-24\DSRS\DSRS\bin\Debug\System.Memory.dll
+E:\education\Summer 23-24\DSRS\DSRS\bin\Debug\System.Numerics.Vectors.dll
+E:\education\Summer 23-24\DSRS\DSRS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\education\Summer 23-24\DSRS\DSRS\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\education\Summer 23-24\DSRS\DSRS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\education\Summer 23-24\DSRS\DSRS\bin\Debug\MySqlConnector.xml
+E:\education\Summer 23-24\DSRS\DSRS\bin\Debug\System.Buffers.xml
+E:\education\Summer 23-24\DSRS\DSRS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\education\Summer 23-24\DSRS\DSRS\bin\Debug\System.Memory.xml
+E:\education\Summer 23-24\DSRS\DSRS\bin\Debug\System.Numerics.Vectors.xml
+E:\education\Summer 23-24\DSRS\DSRS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\education\Summer 23-24\DSRS\DSRS\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\education\Summer 23-24\DSRS\DSRS\obj\Debug\DSRS.csproj.AssemblyReference.cache
+E:\education\Summer 23-24\DSRS\DSRS\obj\Debug\DSRS.Form1.resources
+E:\education\Summer 23-24\DSRS\DSRS\obj\Debug\DSRS.Form2.resources
+E:\education\Summer 23-24\DSRS\DSRS\obj\Debug\DSRS.Form3.resources
+E:\education\Summer 23-24\DSRS\DSRS\obj\Debug\DSRS.Form4.resources
+E:\education\Summer 23-24\DSRS\DSRS\obj\Debug\DSRS.Form5.resources
+E:\education\Summer 23-24\DSRS\DSRS\obj\Debug\DSRS.Form7.resources
+E:\education\Summer 23-24\DSRS\DSRS\obj\Debug\DSRS.Form8.resources
+E:\education\Summer 23-24\DSRS\DSRS\obj\Debug\DSRS.Form9.resources
+E:\education\Summer 23-24\DSRS\DSRS\obj\Debug\DSRS.Properties.Resources.resources
+E:\education\Summer 23-24\DSRS\DSRS\obj\Debug\DSRS.csproj.GenerateResource.cache
+E:\education\Summer 23-24\DSRS\DSRS\obj\Debug\DSRS.csproj.CoreCompileInputs.cache
+E:\education\Summer 23-24\DSRS\DSRS\obj\Debug\DSRS.csproj.Up2Date
+E:\education\Summer 23-24\DSRS\DSRS\obj\Debug\DSRS.exe
+E:\education\Summer 23-24\DSRS\DSRS\obj\Debug\DSRS.pdb
+E:\education\Summer 23-24\DSRS\DSRS\bin\Debug\BouncyCastle.Cryptography.dll
+E:\education\Summer 23-24\DSRS\DSRS\bin\Debug\itextsharp.dll
+E:\education\Summer 23-24\DSRS\DSRS\bin\Debug\BouncyCastle.Cryptography.xml
+E:\education\Summer 23-24\DSRS\DSRS\bin\Debug\itextsharp.xml
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\bin\Debug\DSRS.exe.config
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\bin\Debug\DSRS.exe
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\bin\Debug\DSRS.pdb
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\bin\Debug\itextsharp.dll
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\bin\Debug\MySqlConnector.dll
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\bin\Debug\System.Buffers.dll
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\bin\Debug\System.Memory.dll
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\bin\Debug\itextsharp.xml
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\bin\Debug\MySqlConnector.xml
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\bin\Debug\System.Buffers.xml
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\bin\Debug\System.Memory.xml
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.CustomerForgotPassword.resources
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.Form1.resources
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.Form2.resources
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.Form3.resources
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.Form4.resources
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.Form5.resources
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.Form7.resources
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.Form8.resources
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.Form9.resources
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.Properties.Resources.resources
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.csproj.Up2Date
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.exe
+C:\Users\USER\Downloads\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.pdb
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\bin\Debug\DSRS.exe.config
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\bin\Debug\DSRS.exe
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\bin\Debug\DSRS.pdb
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\bin\Debug\BouncyCastle.Cryptography.dll
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\bin\Debug\itextsharp.dll
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\bin\Debug\MySqlConnector.dll
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\bin\Debug\System.Buffers.dll
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\bin\Debug\System.Memory.dll
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\bin\Debug\System.Numerics.Vectors.dll
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\bin\Debug\BouncyCastle.Cryptography.xml
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\bin\Debug\itextsharp.xml
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\bin\Debug\MySqlConnector.xml
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\bin\Debug\System.Buffers.xml
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\bin\Debug\System.Memory.xml
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\bin\Debug\System.Numerics.Vectors.xml
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.csproj.AssemblyReference.cache
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.CustomerForgotPassword.resources
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.Form1.resources
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.Form2.resources
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.Form3.resources
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.Form4.resources
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.Form5.resources
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.Form7.resources
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.Form8.resources
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.Form9.resources
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.Properties.Resources.resources
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.csproj.GenerateResource.cache
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.csproj.CoreCompileInputs.cache
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.csproj.Up2Date
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.exe
+E:\education\Summer 23-24\DSRS\DSRS 1\DSRS\DSRS\obj\Debug\DSRS.pdb
