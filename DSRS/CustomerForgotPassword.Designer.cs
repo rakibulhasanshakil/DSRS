@@ -55,7 +55,7 @@
             this.account_searching_panel.Controls.Add(this.search_tb);
             this.account_searching_panel.Dock = System.Windows.Forms.DockStyle.Top;
             this.account_searching_panel.Location = new System.Drawing.Point(0, 0);
-            this.account_searching_panel.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.account_searching_panel.Margin = new System.Windows.Forms.Padding(4);
             this.account_searching_panel.Name = "account_searching_panel";
             this.account_searching_panel.Size = new System.Drawing.Size(683, 279);
             this.account_searching_panel.TabIndex = 0;
@@ -63,7 +63,7 @@
             // search_panel_back_btn
             // 
             this.search_panel_back_btn.Location = new System.Drawing.Point(223, 166);
-            this.search_panel_back_btn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.search_panel_back_btn.Margin = new System.Windows.Forms.Padding(4);
             this.search_panel_back_btn.Name = "search_panel_back_btn";
             this.search_panel_back_btn.Size = new System.Drawing.Size(100, 28);
             this.search_panel_back_btn.TabIndex = 3;
@@ -74,7 +74,7 @@
             // search_btn
             // 
             this.search_btn.Location = new System.Drawing.Point(377, 166);
-            this.search_btn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.search_btn.Margin = new System.Windows.Forms.Padding(4);
             this.search_btn.Name = "search_btn";
             this.search_btn.Size = new System.Drawing.Size(100, 28);
             this.search_btn.TabIndex = 2;
@@ -97,7 +97,7 @@
             // 
             this.search_tb.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.search_tb.Location = new System.Drawing.Point(73, 100);
-            this.search_tb.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.search_tb.Margin = new System.Windows.Forms.Padding(4);
             this.search_tb.Name = "search_tb";
             this.search_tb.Size = new System.Drawing.Size(417, 28);
             this.search_tb.TabIndex = 0;
@@ -115,7 +115,7 @@
             this.password_reset_panel.Controls.Add(this.new_password_tb);
             this.password_reset_panel.Dock = System.Windows.Forms.DockStyle.Top;
             this.password_reset_panel.Location = new System.Drawing.Point(0, 279);
-            this.password_reset_panel.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.password_reset_panel.Margin = new System.Windows.Forms.Padding(4);
             this.password_reset_panel.Name = "password_reset_panel";
             this.password_reset_panel.Size = new System.Drawing.Size(683, 300);
             this.password_reset_panel.TabIndex = 1;
@@ -124,7 +124,7 @@
             // password_reset_panel_back_btn
             // 
             this.password_reset_panel_back_btn.Location = new System.Drawing.Point(284, 256);
-            this.password_reset_panel_back_btn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.password_reset_panel_back_btn.Margin = new System.Windows.Forms.Padding(4);
             this.password_reset_panel_back_btn.Name = "password_reset_panel_back_btn";
             this.password_reset_panel_back_btn.Size = new System.Drawing.Size(100, 28);
             this.password_reset_panel_back_btn.TabIndex = 9;
@@ -157,7 +157,7 @@
             // 
             this.confirm_password_tb.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.confirm_password_tb.Location = new System.Drawing.Point(105, 194);
-            this.confirm_password_tb.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.confirm_password_tb.Margin = new System.Windows.Forms.Padding(4);
             this.confirm_password_tb.Name = "confirm_password_tb";
             this.confirm_password_tb.Size = new System.Drawing.Size(417, 28);
             this.confirm_password_tb.TabIndex = 6;
@@ -165,7 +165,7 @@
             // password_update_btn
             // 
             this.password_update_btn.Location = new System.Drawing.Point(475, 256);
-            this.password_update_btn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.password_update_btn.Margin = new System.Windows.Forms.Padding(4);
             this.password_update_btn.Name = "password_update_btn";
             this.password_update_btn.Size = new System.Drawing.Size(100, 28);
             this.password_update_btn.TabIndex = 5;
@@ -188,7 +188,7 @@
             // 
             this.new_password_tb.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.new_password_tb.Location = new System.Drawing.Point(105, 110);
-            this.new_password_tb.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.new_password_tb.Margin = new System.Windows.Forms.Padding(4);
             this.new_password_tb.Name = "new_password_tb";
             this.new_password_tb.Size = new System.Drawing.Size(417, 28);
             this.new_password_tb.TabIndex = 3;
@@ -201,7 +201,7 @@
             this.ClientSize = new System.Drawing.Size(704, 278);
             this.Controls.Add(this.password_reset_panel);
             this.Controls.Add(this.account_searching_panel);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "CustomerForgotPassword";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "CustomerForgotPassword";
